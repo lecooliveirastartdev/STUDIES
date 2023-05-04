@@ -1,0 +1,41 @@
+body {
+    margin:0;
+    padding: 0;
+}
+
+.header {
+    overflow: hidden;
+    margin: auto;
+    width: 80%;
+    background: #5c57a4;
+    padding: 15px;
+    font-size: 18px;
+}
+
+.menu {
+  
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    float: right;
+}
+
+li {
+   
+  float: left;
+    color: white;
+    margin-left: 15px;
+}
+
+.logo {
+    float: left;
+    color: white;
+}
+@media screen and (max-width: 400px){
+
+    .header{
+        background: gray;
+    }
+
+}
+

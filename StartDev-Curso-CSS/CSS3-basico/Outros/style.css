@@ -1,0 +1,34 @@
+#cor{
+    background-color: rgb(6, 51, 95);
+}
+
+
+#título01 {
+    color: red;
+    background-color: rgb(24, 8, 8);
+}
+
+#principal02 {
+
+    color: blue;
+
+    background-image: url(../Imagens/baixados.jpg);
+    
+
+}
+
+.texto_verde {
+
+    color: rgb(25, 17, 93);
+
+}
+
+#principal03 {
+
+    background-color: lawngreen;
+    background-image: url(../Imagens/images.jpg);
+}
+
+.cor{
+    color: rgb(149, 93, 104);
+}

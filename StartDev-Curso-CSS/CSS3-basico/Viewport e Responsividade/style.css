@@ -1,0 +1,9 @@
+body{
+    font-size: 1.2rem;
+}
+.header{
+    margin: auto;
+    width: 80%;
+    height: 100px;
+    background-color: gray;
+}
