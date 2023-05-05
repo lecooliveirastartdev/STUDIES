@@ -1,0 +1,23 @@
+.card {
+    position: relative;
+    float: left;
+    width: 400px;
+    height: 200px;
+    border: 2px solid green;
+    text-align: center;
+
+}
+.c1{
+    background-color: red;
+    line-height: 200px;
+}
+.c2{
+    color: white;
+    position: absolute;
+    top: 50%;
+    background-color: blue;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+   
+}

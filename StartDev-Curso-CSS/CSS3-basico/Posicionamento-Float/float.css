@@ -1,0 +1,22 @@
+body{
+    font-size: 1.2rem;
+}
+
+#I1{
+float: right;
+}
+
+#I2{
+    float: left;
+}
+p{
+    clear: none;
+}
+div{
+    border: 1px solid black;
+    overflow: auto;
+    
+}
+/* pode usar a função CLEAR para eliminar o envolvimento do texto perante a imagem */
+
+
