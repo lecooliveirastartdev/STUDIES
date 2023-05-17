@@ -15,3 +15,14 @@ function obj(nome, sobrenome)
 
 }
 console.log(this.nome, + this.sobrenome);
+
+// Exemplo de criar objeto 3
+
+function  obj(n, s) {
+
+    this.nome = n;
+    this.sobrenome = s;
+
+}
+var a = new obj("Alexandro", "Oliveira");
+console.log( a[(0) + (2)]);
