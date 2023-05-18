@@ -1,5 +1,5 @@
 
-//Nome do aluno - nota 1 - nota 2 -m~edia - apronado - reprovado
+//Nome do aluno - nota 1 - nota 2 -m~edia - Apronado - Reprovado
 
 
 var nomes = ["Alexandro", "Beatriz", "Davi", "Ana"];
