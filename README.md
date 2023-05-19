@@ -1,2 +1,3 @@
 # STUDIES
- New repositório 
+ New repositório! 
+ ## Sejam Bem vindos!
