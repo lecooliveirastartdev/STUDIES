@@ -18,10 +18,25 @@
         }
     </script>-->
 
+    <script>
+
+        function changeH1(){
+
+            let h1 = document.getElementsByTagName("h1")[0]
+            console.log(h1);
+        }
+
+      
+    </script>
+
 </head>
 
 <body>
-    <h1 onclick="console.log(this)">Clique em mim</h1>
+
+    <h1> Clique em mim </h1>
+
+    <input type="text" onchange="changeH1()">
+
 </body>
 
 </html>
