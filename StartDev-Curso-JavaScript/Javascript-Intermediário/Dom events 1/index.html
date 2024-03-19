@@ -20,13 +20,14 @@
 
     <script>
 
-        function changeH1(){
+        function changeH1(input) {
 
             let h1 = document.getElementsByTagName("h1")[0]
-            console.log(h1);
+            h1.innerText = input.value;
+
         }
 
-      
+
     </script>
 
 </head>
@@ -35,7 +36,7 @@
 
     <h1> Clique em mim </h1>
 
-    <input type="text" onchange="changeH1()">
+    <input type="text" onchange="changeH1(this)">
 
 </body>
 
